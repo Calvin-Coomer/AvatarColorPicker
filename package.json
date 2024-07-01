@@ -1,8 +1,8 @@
 {
   "name": "@calvin-coomer/avatar-color-picker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate avatar material colors from a string",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
